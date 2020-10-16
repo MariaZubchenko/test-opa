@@ -1,3 +1,5 @@
+# Test Open Policy Agent 
+
 ## To start testing:
 `$ opa test . -v`
 
